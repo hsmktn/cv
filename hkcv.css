@@ -1,0 +1,12 @@
+.page{
+	width : 780px;
+	margin : auto;
+	font-size : 16px;
+	font-family : 'Source sans pro', Calibri;
+}
+h2{
+	font-size : 28px;
+	color : #3388BB;
+	text-transform : uppercase;
+	border-bottom : 3px solid #3388BB;
+}
